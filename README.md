@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Exploring India
 
 You can use the [editor on GitHub](https://github.com/nigamelastic/SimulationGame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
